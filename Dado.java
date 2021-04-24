@@ -1,4 +1,4 @@
-package Parchis;
+package proyecto;
 import java.util.*;
 
 public class Dado {
